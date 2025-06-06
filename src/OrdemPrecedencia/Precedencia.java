@@ -15,5 +15,8 @@ public class Precedencia {
 
         boolean resultado3 = a && !(b || c);
         System.out.println(resultado3);
+
+        boolean resultado4 = !(a && b) || c;
+        System.out.println(resultado4);
     }
 }
