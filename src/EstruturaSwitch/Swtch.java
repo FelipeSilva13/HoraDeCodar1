@@ -11,8 +11,7 @@ public class Swtch {
 
         // switch, case e break
         // para validar a semana basead0 no número
-        int diaDaSemana = teclado.nextInt();22
-
+        int diaDaSemana = teclado.nextInt();
         switch (diaDaSemana){
 
             case 1:
